@@ -1,0 +1,12 @@
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
+/Users/stephanie/Projects/Lecture10-Labs/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
